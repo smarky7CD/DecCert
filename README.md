@@ -13,7 +13,7 @@ Below is a table showing the gas amount for each transaction.
 | Deployment               | 1666538           |
 | Create a New Certificate | 202196            |
 | Stake Certificate        | 69513             |
-| Stake Certificate        | 86902             |
+| Fraud Tag Certificate        | 86902             |
 | Revoke Certificate       | 46681             |
 
 ## Warning 
