@@ -2,7 +2,7 @@
 
 This is the prototype implementation of DecCert: A decentralized public key infrastructure that solve's [Zooko's triangle](https://en.wikipedia.org/wiki/Zooko%27s_triangle).
 
-Accompanying paper to be linked.
+Paper is avaiable [here](https://ieeexplore.ieee.org/abstract/document/9899851).
 
 ## Performance Results
 
